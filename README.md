@@ -2,7 +2,7 @@
 
 A small helper for macOS that lets someone you trust see and control your Mac for a while. You open it, give them the code it shows, and close it when you are done. It installs nothing and keeps nothing on your Mac.
 
-**Download:** [MacAnywhereSupport-mac.dmg](https://github.com/tsganage/desktop_anywhere-downloads/releases/latest/download/MacAnywhereSupport-mac.dmg) (macOS 14 or later)
+**Download:** [MacAnywhereSupport-mac.dmg](https://github.com/tsganage/desktop_anywhere-downloads/releases/latest/download/MacAnywhereSupport-mac.dmg) (macOS 12.3 or later, Apple Silicon and Intel)
 
 ## How to open it
 
@@ -12,6 +12,8 @@ A small helper for macOS that lets someone you trust see and control your Mac fo
 4. Give the person the code and password it shows. When they connect, it asks you to **Allow** them.
 
 Closing the helper ends everything. You can eject the disk image afterwards.
+
+One download works on every supported Mac. On macOS 12 it shares the screen and lets them control it, but without sound; macOS 13 and later get everything.
 
 ## Only use it with someone you trust
 

@@ -2,7 +2,7 @@
 
 A small helper for macOS that lets someone you trust see and control your Mac for a while. You open it, give them the code it shows, and close it when you are done. It installs nothing and keeps nothing on your Mac.
 
-**Download:** [MacAnywhereSupport-mac.dmg](https://github.com/tsganage/mac-anywhere-downloads/releases/latest/download/MacAnywhereSupport-mac.dmg) (macOS 14 or later)
+**Download:** [MacAnywhereSupport-mac.dmg](https://github.com/tsganage/desktop_anywhere/releases/latest/download/MacAnywhereSupport-mac.dmg) (macOS 14 or later)
 
 ## How to open it
 

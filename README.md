@@ -7,7 +7,9 @@ A small helper for macOS that lets someone you trust see and control your Mac fo
 ## How to open it
 
 1. Open the downloaded `.dmg`, then double-click **Mac Anywhere Support**.
-2. macOS will say it cannot check the app for malware, because it is not distributed through the App Store. Click **Done**. Open **System Settings, Privacy & Security**, scroll down, and click **Open Anyway** next to its name. Confirm.
+2. macOS will say it cannot check the app for malware, because it is not notarized by Apple. Click **OK**, then:
+   - **macOS 12, 13 and 14:** right-click (or Control-click) **Mac Anywhere Support**, choose **Open**, then click **Open**. If there is no Open button, open **System Settings, Security & Privacy** (Privacy & Security on 13 and 14), General, and click **Open Anyway** next to its name.
+   - **macOS 15 and later:** open **System Settings, Privacy & Security**, scroll down, and click **Open Anyway** next to its name. Confirm.
 3. Allow the two permissions it asks for (showing your screen, and controlling the mouse and keyboard). Click **Reopen the helper** if it asks.
 4. Give the person the code and password it shows. When they connect, it asks you to **Allow** them.
 
